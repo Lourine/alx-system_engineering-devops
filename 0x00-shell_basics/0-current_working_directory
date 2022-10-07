@@ -1,0 +1,6 @@
+#!/bin/sh
+echo "current directory using pwd command"
+echo $(pwd)
+
+ echo "current directory using PWD variable"
+ echo $PWD
